@@ -6,8 +6,8 @@
   "license": "",
   "author": "",
   "scripts": {
-    "build": "npx tailwindcss -i ./src/input.css -o ./css/main.css",
-    "dev": "npx tailwindcss -i ./src/input.css -o ./css/main.css --watch",
+    "build": "npx tailwindcss -i src/input.scss -o ./css/main.css",
+    "dev": "npx tailwindcss -i src/input.scss -o ./css/main.css --watch",
     "start": "npm run build && npm run dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
