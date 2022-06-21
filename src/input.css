@@ -3,6 +3,6 @@
 @tailwind utilities;
 
 *{
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Poppins', sans-serif !important;
 }
 
