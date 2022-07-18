@@ -1,8 +1,12 @@
 {
-  "name": " ",
+  "name": "spf",
   "version": "0.0.1",
   "description": "",
-  "keywords": "",
+  "keywords": [
+    "seed",
+    "potatoes",
+    "fund"
+  ],
   "license": "",
   "author": "",
   "scripts": {
